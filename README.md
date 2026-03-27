@@ -1,5 +1,4 @@
 # Retail-Sales
-Data analyst project.
 Dataset from Kaggle
 https://www.kaggle.com/datasets/manjeetsingh/retaildataset?resource=download
 
